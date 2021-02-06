@@ -47,7 +47,7 @@ No instalation required on this project. Simply run as a normal website.
 
 This is a single page website. There is a navigation menu on the top with three links. When pressed, each link will direct you to the corresponding area on the page related to that topic. On the side, you will see section with listed benefits of the website. Website is very straightforward with no need for special training or instrictions.
 
-# Credits
+## Credits
 
 Thank you to Columbia's Full-Stack Web Developer bootcamp for all the assistance and for teaching me all that I have learned. Credit also goes to Google for helping me find any needed resource.
 
