@@ -2,34 +2,7 @@
 
 ## What is the project?
 
-This project is a code refactor of the website of an online marketing agency named Horiseon. Horiseon requested that their website be refactored, meaning there will be no visible changes to the website but simple reworking the code in a way that is better for accessibility purposes and for browser rendering. 
-
-## What were the challenges?
-
-This website was mostly functional with a few exceptions but mostly needed to be refactored. Some of the challenges that needed to be addressed were:
-- The website had a lot of repetitive code
-- There was too much use of the tag instead of using more specific elements
-- There were no alt tags for any of the included images on the website
-
-## What was updated?
-
-The refactor includes changes such as:
-- Adding accessibility features such as alt tags to all images
-- Cleaning up repetitive code in the CSS file
-- Fixing broken links so that links jump to the correct section of the page
-- Adding a more semantic structure to the code. This was created through switching div tags with more appropriate and specific tags that a browser will understand and clasify.
-
-## Why did I decide to do this project?
-
-I was really passionate about this project because I believe that first all should have an equal oppportunity at having the best experience on a website. I also wannted to help the client bring in more traffic by making the website better understandable to search engines.
-
-## What I learned in the process?
-
-Throughout this project and through the process of refactoring this website, I learned several new tags that I was unaware of, I strengthened my CSS knowledge and learned how the internet can really be an accessible place for all.
-
-## What makes this project stand out?
-
-This project is a great example of a semantically correct website with good accessibility built-in to it.
+This project is a code refactor of the website of Horiseon, an online marketing agency. Horiseon requested that their website be refactored, meaning there will be no aesthetic or functional changes to the website but simple reworking of the code in a way that is better for accessibility purposes and for browser rendering.
 
 ## Project Screenshot  
 
@@ -39,17 +12,40 @@ This project is a great example of a semantically correct website with good acce
 
 https://stevenstefanov.github.io/Horiseon_Code-Refactor/
 
-## Instalation
+## What were the challenges?
 
-No instalation required on this project. Simply run as a normal website.
+This website was mostly functional with a few exceptions so it primarily needed to be refactored. Some of the challenges that needed to be addressed were:
+- The website had a lot of repetitive code
+- There was too much use of certain tags instead of using more specific elements
+- There were no alt tags for any of the included images on the website
+
+## What was updated?
+
+The refactor changes include:
+- Adding accessibility features such as alt tags to all images
+- Cleaning up repetitive code in the CSS file
+- Fixing broken links so that they direct the user to the correct section of the page
+- Adding a more semantic structure to the code. This was created through switching div tags with more appropriate and specific tags that a browser will understand and clasify
+
+## Why did I decide to do this project?
+
+I was really passionate about this project because I believe that all should have an equal oppportunity at having the best experience on a website. I also wannted to help the client bring in more traffic by making the website better understandable to search engines.
+
+## What I learned in the process?
+
+Throughout this project and through the process of refactoring this website, I learned several new tags that I was unaware of, I strengthened my CSS knowledge and learned how the internet can really be an accessible place for all.
+
+## What makes this project stand out?
+
+This project is a great example of a semantically correct website with good accessibility built-in to it.
 
 ## Usage
 
-This is a single page website. There is a navigation menu on the top with three links. When pressed, each link will direct you to the corresponding area on the page related to that topic. On the side, you will see section with listed benefits of the website. Website is very straightforward with no need for special training or instrictions.
+This is a single page website. There is a navigation menu on the top with three links. When pressed, each link will direct the user to the corresponding area on the page related to that topic. On the side, there is a section with listed benefits of the website. Horiseon's website is very straightforward with no need for special training or instrictions.
 
 ## Credits
 
-Thank you to Columbia's Full-Stack Web Developer bootcamp for all the assistance and for teaching me all that I have learned. Credit also goes to Google for helping me find any needed resource.
+Thank you to Columbia's Full-Stack Web Developer bootcamp for all the assistance and for teaching me all that I have learned.
 
 ## Licence
 
