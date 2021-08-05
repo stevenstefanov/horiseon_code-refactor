@@ -1,6 +1,6 @@
 # Horiseon Code Refactor
 
-## What is the project?
+## Project Description
 
 This project is a code refactor of the website of Horiseon, an online marketing agency. Horiseon requested that their website be refactored, meaning there will be no aesthetic or functional changes to the website but simple reworking of the code in a way that is better for accessibility purposes and for browser rendering.
 
@@ -12,14 +12,18 @@ This project is a code refactor of the website of Horiseon, an online marketing 
 
 https://stevenstefanov.github.io/Horiseon_Code-Refactor/
 
-## What were the challenges?
+## Background
+
+I was really passionate about this project because I believe that all should have an equal oppportunity at having the best experience on a website. I also wannted to help the client bring in more traffic by making the website better understandable to search engines.
+
+## Challenges
 
 This website was mostly functional with a few exceptions so it primarily needed to be refactored. Some of the challenges that needed to be addressed were:
 - The website had a lot of repetitive code
 - There was too much use of certain tags instead of using more specific elements
 - There were no alt tags for any of the included images on the website
 
-## What was updated?
+## Changes Made
 
 The refactor changes include:
 - Adding accessibility features such as alt tags to all images
@@ -27,17 +31,9 @@ The refactor changes include:
 - Fixing broken links so that they direct the user to the correct section of the page
 - Adding a more semantic structure to the code. This was created through switching div tags with more appropriate and specific tags that a browser will understand and clasify
 
-## Why did I decide to do this project?
-
-I was really passionate about this project because I believe that all should have an equal oppportunity at having the best experience on a website. I also wannted to help the client bring in more traffic by making the website better understandable to search engines.
-
-## What I learned in the process?
+## Learnings
 
 Throughout this project and through the process of refactoring this website, I learned several new tags that I was unaware of, I strengthened my CSS knowledge and learned how the internet can really be an accessible place for all.
-
-## What makes this project stand out?
-
-This project is a great example of a semantically correct website with good accessibility built-in to it.
 
 ## Usage
 
